@@ -13,7 +13,7 @@
 
 <div>
   <p>
-    Link para acesso ao dashboard pela web: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjk3N2QzYjQtNGMzZi00OWRmLWExYzEtOGVjMzE4NWY3NmMzIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="blank">Dashboard de Vendas da Adventure Works</a>
+    Link para acesso ao dashboard pela web: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjk3N2QzYjQtNGMzZi00OWRmLWExYzEtOGVjMzE4NWY3NmMzIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" target="blank">Dashboard de Vendas da Alura Pets</a>
   </p>
 </div>
 
