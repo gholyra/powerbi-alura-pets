@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    Como exercício proposto no curso Power BI: construindo meu primeiro dashboard, da formação em Power BI da Alura, foi criado um dashboard de vendas para a Alura Pets, um pet shop fictício cuja dona, chamada Helô, gostaria de indentificar e obter certas informações a partir da base de dados de vendas da sua loja.
+    Como exercício proposto no curso Power BI: construindo meu primeiro dashboard, da formação em Power BI da Alura, foi criado um dashboard de vendas para a Alura Pets, um pet shop fictício cuja dona, chamada Helô, gostaria de identificar e obter certas informações a partir da base de dados de vendas da sua loja.
   </p>
 </div>
 
