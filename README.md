@@ -19,7 +19,7 @@
 
 <div>
   <p>
-    Assim, com o intuito de ensinar e demonstrar as principais utilidades e ferramentas para a criação de um relatório de negócios, foi desenvolvido um dashboard através de bases de dados vindas de arquivos de texto (TXT), pastas de trabalho do Excel (.xls) e planilhas do Google Sheets, todas extraídas, transformadas e carregadas (padrão ETL), com o tratamento dos dados de diferentes tabelas, as quais foram estudadas e relacionadas, e, por fim, exibidas através de visuais nativos e externos do Power BI Desktop.
+    Assim, com o intuito de ensinar e demonstrar as principais utilidades e ferramentas para a criação de um relatório de negócios, foi desenvolvido um dashboard através de bases de dados vindas de arquivos de texto (.TXT), pastas de trabalho do Excel (.xls) e planilhas do Google Sheets, todas extraídas, transformadas e carregadas (padrão ETL), com o tratamento dos dados de diferentes tabelas, as quais foram estudadas e relacionadas, e, por fim, exibidas através de visuais nativos e externos do Power BI Desktop.
   </p>
 </div>
 
